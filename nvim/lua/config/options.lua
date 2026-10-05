@@ -1,0 +1,6 @@
+-- Options perso (en plus de celles de LazyVim)
+-- Style 42 : tabulations de 4, 80 colonnes
+-- vim.opt.tabstop = 4
+-- vim.opt.shiftwidth = 4
+-- vim.opt.expandtab = false
+-- vim.opt.colorcolumn = "80"

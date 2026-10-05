@@ -1,0 +1,1 @@
+-- Raccourcis perso (en plus de ceux de LazyVim)
