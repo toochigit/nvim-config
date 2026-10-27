@@ -5,7 +5,7 @@ LazyVim avec l'extra C/C++ (clangd) et un lot de gadgets dans `nvim/lua/plugins/
 ## Installation (Pop!_OS / Ubuntu / Debian)
 
 ```bash
-git clone https://github.com/TON_PSEUDO/TON_REPO.git ~/nvim-config
+git clone https://github.com/toochigit/nvim-config ~/nvim-config
 cd ~/nvim-config
 ./install.sh
 ```
